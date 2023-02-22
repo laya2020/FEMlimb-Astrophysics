@@ -2,7 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-*[How to contribute](#how-to-contribute)
+* [How to contribute](#how-to-contribute)
 
 
 ##General info
