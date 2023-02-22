@@ -5,7 +5,7 @@
 * [How to contribute](#how-to-contribute)
 
 
-##General info
+## General info
 
 This is a fortran package related to the field of astrophysics.  It recover limb darkening of distant stars from the gravitational microlensing light curves.
 
@@ -28,9 +28,9 @@ To run this project, copy all the files and put them all in the same folder.
 
 sh limb.sh
  
-##Support
+## Support
 To get help with this project email me at laya.golchin@gmail.com
 
 
-##How to contribute
+## How to contribute
 You can contribute to the project by uploading more recent data files (2010+) to the Data folder and upgrade the events.f90 file accordingly.
