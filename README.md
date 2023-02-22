@@ -7,10 +7,13 @@
 
 ## General info
 
-This is a fortran package related to the field of astrophysics.  It recover limb darkening of distant stars from the gravitational microlensing light curves.
+This is a fortran package related to the field of astrophysics.  It recovers limb darkening of distant stars from the gravitational microlensing light curves.
 
-The input data files have 3 columns: time   Magnitude  error of magnitude
+The input data files have 3 columns: 
+Column1: time   Column2: Magnitude  Column3: Error of magnitude
+
 Also, the primary parameters of the microlensing event is needed and is stored in events.f90 file.
+
 The output files have 3 columns    : 
 Column 1: r
 Column 2: Surface brightness at r 
