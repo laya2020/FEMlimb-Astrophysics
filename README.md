@@ -40,5 +40,5 @@ To get help with this project email me at laya.golchin@gmail.com
 
 
 ## How to contribute
-You can contribute to the project by uploading more recent data files (2010+) to the Data folder and upgrade the events.f95 file accordingly.
+You can contribute to the project by uploading more recent data files (2010+) to the DataBase folder and upgrade the "events.f95" file accordingly.
 It would be much appreciated.
