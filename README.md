@@ -15,18 +15,22 @@ Column1: time   Column2: Apparent magnitude Column3:Error of time  Column4: Erro
 Also, the primary parameters of the microlensing event is needed and is stored in events.f90 file.
 
 The output files have 3 columns    : 
-Column 1: r
-Column 2: Surface brightness at r 
-Column 3: Estimated error of surface brightness
+Column 1: r, 
+Column 2: Surface brightness at r,  
+Column 3: Estimated error of surface brightness.
 
 To know more about the theory behind this package and its algorithm please see "Golchin, Rahvar, 2020, MNRAS, 494, p584-597. https://doi.org/10.1093/mnras/staa743 "   
  
 ## Technologies
-Project is created with:
- Fortran 90
-
+Project is created with: Fortran 95, compiled with gfortran compiler. 
+ <br>
+OS: Macosx big sur
+ <br>
+Requierments: gcc, Xcode
+ 
 ## Setup
-To run this project, copy all the files and put them all in the same folder.
+To run this project, put all the files in the same folder.<br>
+Change the DATA_PATH string in the Events.f95 file.
  Then, run the command below in terminal, in the same folder that you copied the package:
 
 sh limb.sh
